@@ -1,0 +1,22 @@
+{
+  "name": "giphy2",
+  "version": "1.0.0",
+  "description": "Creating a giphy search page!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betsybaileyy/giphy-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/betsybaileyy/giphy-search/issues"
+  },
+  "homepage": "https://github.com/betsybaileyy/giphy-search#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
